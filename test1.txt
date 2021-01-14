@@ -1,0 +1,10 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 303E-7DDA
+
+ Directory of C:\Users\chintkr\Downloads\Technology\GitProject
+
+01/14/2021  06:50 PM    <DIR>          .
+01/14/2021  06:50 PM    <DIR>          ..
+01/14/2021  06:50 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  216,779,067,392 bytes free
